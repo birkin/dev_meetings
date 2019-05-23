@@ -1,0 +1,128 @@
+{
+  "contextObjects": [
+    {
+      "contextObject": "date=2011&volume=102&aulast=SOTA&issn=0024-4066&issue=4&spage=715&id=doi%3A10.1111%2Fj.1095-8312.2011.01617.x&auinit=T&title=Biological+journal+of+the+Linnean+Society&atitle=Phylogeny+and+divergence+time+of+island+tiger+beetles+of+the+genus+Cylindera+%28Coleoptera%3A+Cicindelidae%29+in+East+Asia&sid=google",
+      "contextObjectFacts": [
+        {
+          "name": "date",
+          "value": "20110101"
+        },
+        {
+          "name": "year",
+          "value": "2011"
+        },
+        {
+          "name": "spage",
+          "value": "715"
+        },
+        {
+          "name": "atitle",
+          "value": "Phylogeny and divergence time of island tiger beetles of the genus Cylindera (Coleoptera: Cicindelidae) in East Asia : PHYLOGENY OF TIGER BEETLES IN EAST ASIA"
+        },
+        {
+          "name": "aufirst",
+          "value": "TEIJI"
+        },
+        {
+          "name": "eissn1",
+          "value": "1095-8312"
+        },
+        {
+          "name": "genre",
+          "value": "article"
+        },
+        {
+          "name": "jtitle",
+          "value": "Biological Journal of the Linnean Society"
+        },
+        {
+          "name": "aulast",
+          "value": "SOTA"
+        },
+        {
+          "name": "issue",
+          "value": "4"
+        },
+        {
+          "name": "rfr_id",
+          "value": "google"
+        },
+        {
+          "name": "eissn",
+          "value": "10958312"
+        },
+        {
+          "name": "val_fmt",
+          "value": "info:ofi/fmt:kev:mtx:journal"
+        },
+        {
+          "name": "volume",
+          "value": "102"
+        },
+        {
+          "name": "issn1",
+          "value": "0024-4066"
+        },
+        {
+          "name": "url_ver",
+          "value": "Z39.88-2004"
+        },
+        {
+          "name": "au",
+          "value": "SOTA, TEIJI"
+        },
+        {
+          "name": "issn",
+          "value": "00244066"
+        },
+        {
+          "name": "authors",
+          "value": "SOTA, TEIJI;LIANG, HONGBIN;ENOKIDO, YOSHIHIRO;HORI, MICHIO"
+        },
+        {
+          "name": "doi",
+          "value": "10.1111/j.1095-8312.2011.01617.x"
+        }
+      ],
+      "contextObjectId": "1",
+      "targetLinks": [
+        {
+          "category": "FullText",
+          "hoverText": "Check Wiley for the full text of this article.",
+          "iconLibRef": 44,
+          "iconText": "documents",
+          "iconUrl": "",
+          "linkId": 368847,
+          "linkName": "Wiley",
+          "linkText": "Find this article in full text from Wiley.",
+          "notes": [],
+          "packageInfo": {
+            "coverage": {
+              "coverageDates": [
+                {
+                  "coverageBegin": "19970101",
+                  "coverageEnd": "99991231"
+                }
+              ],
+              "coverageStatement": "",
+              "embargoUnitType": "WEEK",
+              "embargoValue": 0
+            },
+            "packageId": 650,
+            "packageName": "Wiley Online Library STM Collection (formerly Blackwell Synergy)",
+            "titleId": "edp10508"
+          },
+          "rank": 1,
+          "targetUrl": "https://linkout.ebsco.zone/ftf?ref=b8a28669-6a6a-4095-a081-c1e5e32ee3c5&id=368847"
+        }
+      ]
+    }
+  ],
+  "diagnosticMessages": [],
+  "statsInfo": {
+    "processingDurationMsec": 1101,
+    "processingStartTime": "2019-05-22T20:26:10.878Z",
+    "sessionId": "-90218095",
+    "transactionId": "a1efc2a0-2494-4a24-a0f5-ce5a3779c25b"
+  }
+}
